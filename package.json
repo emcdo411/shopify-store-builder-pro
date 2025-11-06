@@ -1,0 +1,14 @@
+{
+  "name": "shopify-store-builder-pro",
+  "version": "2.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "lint": "echo \"(todo) add eslint\" && exit 0",
+    "test": "echo \"(todo) add tests\" && exit 0",
+    "validate": "node scripts/validate-theme.js || echo \"Add script file.\"",
+    "generate:products": "node scripts/generate-products.js || echo \"Add script file.\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
